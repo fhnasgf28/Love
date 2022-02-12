@@ -13,7 +13,7 @@ body {
   text-align: center;
   font-size: 1.3rem;
   line-height: 1.333;
-  margin-top: 40%;
+  margin-top: 30%;
   margin-left: 60px;
 }
 .heart {
@@ -21,7 +21,7 @@ body {
   height: 100px;
   position: absolute;
   top: 50%;
-  left: 40%;
+  left: 30%;
   background: #ff3e3e;
   transform-origin: right bottom;
   transition: 1s;
